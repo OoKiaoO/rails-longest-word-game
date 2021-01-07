@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+ @import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Roboto+Mono&display=swap');
+
+body {
+  background-color: #ffa62b;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+ h1 {
+  font-family: 'Bungee Outline', cursive;
+  font-size: 75px;
+  color: #16697a;
+ }
